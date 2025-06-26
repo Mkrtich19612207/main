@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Smart Guide</string>
+    <string name="google_maps_key">ТВОЙ_GOOGLE_API_KEY</string>
+
+    <string name="select_access_type">Выберите тип доступа</string>
+    <string name="lifetime_purchase">Купить навсегда ($9.99)</string>
+    <string name="subscribe">Подписка $2.99/мес</string>
+    <string name="enter_activation_code">Введите код активации</string>
+    <string name="activate_code">Активировать код</string>
+    <string name="reset_subscription">Сбросить подписку</string>
+    <string name="faq_button">FAQ / Что даёт подписка?</string>
+    <string name="faq_title">Что даёт подписка?</string>
+    <string name="faq_message">
+• Доступ ко всем функциям приложения
+• Рекомендации и поиск рядом
+• AI-чат: советы и ответы на вопросы
+• Сохранение маршрутов и любимых мест
+• Аудиогид и интересные факты
+• Офлайн-режим и без рекламы
+
+Попробуйте все функции Smart Guide!
+    </string>
+    <string name="code_activated">Код успешно активирован!</string>
+    <string name="code_invalid">Код недействителен или уже использован</string>
+    <string name="code_unknown">Неизвестный тип кода</string>
+    <string name="lifetime_activated">Пожизненная подписка активирована!</string>
+    <string name="month_activated">Месячная подписка активирована!</string>
+    <string name="threemonth_activated">3 месяца подписки активировано!</string>
+    <string name="year_activated">Годовая подписка активирована!</string>
+    <string name="reset_subscription_title">Сброс профиля</string>
+    <string name="reset_subscription_message">Вы уверены, что хотите удалить все данные подписки? Это действие необратимо.</string>
+    <string name="reset_subscription_yes">Да, сбросить</string>
+    <string name="reset_subscription_no">Нет</string>
+    <string name="reset_subscription_success">Подписка сброшена. Можете заново проверить активацию!</string>
+    <string name="enter_code">Введите код активации</string>
+    <string name="after_restart">Права доступа будут доступны после перезапуска приложения.</string>
+    <string name="exit">Выход</string>
+
+    <!-- Markers, map, AI-chat -->
+    <string name="delete_marker_confirm">Удалить этот маркер?</string>
+    <string name="marker_deleted">Маркер удалён</string>
+    <string name="listen_marker">Слушать</string>
+    <string name="tts_not_supported">Ваше устройство не поддерживает аудиогид</string>
+    <string name="search_hint">Поиск места…</string>
+    <string name="add_photo">Добавить фото к маркеру</string>
+    <string name="send_telegram">В Telegram</string>
+    <string name="place_not_found">Место не найдено</string>
+    <string name="photo_attached">Фото добавлено!</string>
+    <string name="new_marker_title">Новое место</string>
+    <string name="voice_input">Голосовой ввод</string>
+    <string name="choose_language">Выберите язык</string>
+    <string name="type_message">Введите сообщение</string>
+    <string name="send">Отправить</string>
+    <string name="speak_message">Сказать</string>
+    <string name="ai_chat_title">AI-Чат</string>
+    <string name="you">Вы</string>
+    <string name="ai">ИИ</string>
+    <string name="access_limited">Доступ ограничен</string>
+    <string name="limit_message">Вы использовали 20 бесплатных запросов. Для продолжения оплатите $5.</string>
+    <string name="speak_prompt">Говорите…</string>
+    <string name="voice_error">Ошибка голосового ввода</string>
+    <string name="network_error">Ошибка сети/сервера</string>
+    <string name="ai_error">Ошибка ответа AI</string>
+    <string name="parse_error">Ошибка разбора ответа</string>
+    <string name="tts_speak">Сказать</string>
+    <string name="navigate">Навигация</string>
+    <string name="payment_instructions">Оплатите 9.99$ одним из способов:
+КАРТА: %1$s • PayPal: %2$s • Получите код активации в Telegram %3$s
+Введите код ниже для разблокировки.</string>
+    <string name="pay_in_telegram">Оплатить в Telegram</string>
+    <string name="open_map">Открыть карту</string>
+    <string name="support_chat">Чат поддержки</string>
+    <string name="payment_subscription">Оплатить/Подписка</string>
+
+
+</resources>

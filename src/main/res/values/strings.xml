@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Smart Guide</string>
+    <string name="google_maps_key">YOUR_GOOGLE_API_KEY_HERE</string>
+
+    <string name="select_access_type">Select access type</string>
+    <string name="lifetime_purchase">Buy lifetime ($9.99)</string>
+    <string name="subscribe">Subscription $2.99/month</string>
+    <string name="enter_activation_code">Enter activation code</string>
+    <string name="activate_code">Activate code</string>
+    <string name="reset_subscription">Reset subscription</string>
+    <string name="faq_button">FAQ / What does the subscription give?</string>
+    <string name="faq_title">What does the subscription give?</string>
+    <string name="faq_message">
+• Access to all app features
+• Recommendations and nearby places search
+• AI chat: tips and answers to questions
+• Saving routes and favorite places
+• Audioguide and fun facts
+• Offline mode and no ads
+
+Try all the features of Smart Guide!
+    </string>
+    <string name="code_activated">Code successfully activated!</string>
+    <string name="code_invalid">Code is invalid or already used</string>
+    <string name="code_unknown">Unknown code type</string>
+    <string name="lifetime_activated">Lifetime subscription activated!</string>
+    <string name="month_activated">Monthly subscription activated!</string>
+    <string name="threemonth_activated">3 months subscription activated!</string>
+    <string name="year_activated">Annual subscription activated!</string>
+    <string name="reset_subscription_title">Reset profile</string>
+    <string name="reset_subscription_message">Are you sure you want to delete all subscription data? This action cannot be undone.</string>
+    <string name="reset_subscription_yes">Yes, reset</string>
+    <string name="reset_subscription_no">No</string>
+    <string name="reset_subscription_success">Subscription reset. You can test activation again!</string>
+    <string name="enter_code">Please enter your activation code</string>
+    <string name="after_restart">Access rights will be available after app restart.</string>
+    <string name="exit">Exit</string>
+
+    <!-- Markers, map, AI-chat -->
+    <string name="delete_marker_confirm">Delete this marker?</string>
+    <string name="marker_deleted">Marker deleted</string>
+    <string name="listen_marker">Listen</string>
+    <string name="tts_not_supported">Your device does not support audioguide</string>
+    <string name="search_hint">Search place…</string>
+    <string name="add_photo">Add photo to marker</string>
+    <string name="send_telegram">To Telegram</string>
+    <string name="place_not_found">Place not found</string>
+    <string name="photo_attached">Photo attached!</string>
+    <string name="new_marker_title">New place</string>
+    <string name="voice_input">Voice input</string>
+    <string name="choose_language">Choose language</string>
+    <string name="type_message">Enter message</string>
+    <string name="send">Send</string>
+    <string name="speak_message">Speak</string>
+    <string name="ai_chat_title">AI Chat</string>
+    <string name="you">You</string>
+    <string name="ai">AI</string>
+    <string name="access_limited">Access limited</string>
+    <string name="limit_message">You have used 20 free requests. To continue, please pay $5.</string>
+    <string name="speak_prompt">Speak…</string>
+    <string name="voice_error">Voice input error</string>
+    <string name="network_error">Network/server error</string>
+    <string name="ai_error">AI response error</string>
+    <string name="parse_error">Response parse error</string>
+    <string name="tts_speak">Speak</string>
+    <string name="navigate">Navigate</string>
+    <string name="payment_instructions">Pay $9.99 using one of the methods below:
+Card: %1$s • PayPal: %2$s • Get your activation code in Telegram %3$s
+Enter the code below to unlock.</string>
+    <string name="pay_in_telegram">Pay in Telegram</string>
+    <string name="open_map">Open Map</string>
+    <string name="support_chat">Support Chat</string>
+    <string name="payment_subscription">Payment/Subscription</string>
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnSpeak"
+        android:text="Говорить / Задать вопрос"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:visibility="gone"
+        android:layout_marginTop="20dp"
+        android:layout_width="48dp"
+        android:layout_height="48dp" />
+    <TextView
+        android:id="@+id/tvResult"
+        android:text="Ваш ассистент готов!"
+        android:textSize="18sp"
+        android:paddingTop="32dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

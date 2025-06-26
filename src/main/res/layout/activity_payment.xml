@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <!-- Toolbar -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:elevation="4dp"
+        app:title=""
+        app:titleTextColor="@android:color/white"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:padding="32dp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <!-- УДАЛЕНО: Language switcher row (старые кнопки языков) -->
+
+            <TextView
+                android:id="@+id/tvTitle"
+                android:text="@string/select_access_type"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="24dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/btnLifetime"
+                android:text="@string/lifetime_purchase"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp" />
+
+            <Button
+                android:id="@+id/btnSubscribe"
+                android:text="@string/subscribe"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="32dp" />
+
+            <EditText
+                android:id="@+id/etCode"
+                android:hint="@string/enter_activation_code"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="text"
+                android:layout_marginBottom="12dp"
+                android:autofillHints="username" />
+
+            <Button
+                android:id="@+id/btnActivateCode"
+                android:text="@string/activate_code"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp" />
+
+            <ProgressBar
+                android:id="@+id/progressBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="24dp"
+                android:visibility="gone"
+                android:layout_gravity="center" />
+
+            <Button
+                android:id="@+id/btnReset"
+                android:text="@string/reset_subscription"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:background="@android:color/holo_red_light"
+                android:textColor="@android:color/white" />
+
+            <Button
+                android:id="@+id/btnFaq"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/faq_button"
+                android:layout_marginTop="16dp"
+                android:background="@color/teal_700"
+                android:textColor="@android:color/white" />
+
+            <!-- Кнопка выхода -->
+            <Button
+                android:id="@+id/btnExit"
+                android:text="@string/exit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:background="@android:color/darker_gray"
+                android:textColor="@android:color/white"/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

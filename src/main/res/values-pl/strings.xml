@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Smart Guide</string>
+    <string name="select_access_type">Wybierz typ dostępu</string>
+    <string name="lifetime_purchase">Zakup na zawsze (9,99 $)</string>
+    <string name="subscribe">Subskrypcja 2,99 $/miesiąc</string>
+    <string name="enter_activation_code">Wpisz kod aktywacyjny</string>
+    <string name="activate_code">Aktywuj kod</string>
+    <string name="reset_subscription">Resetuj subskrypcję</string>
+    <string name="faq_button">FAQ / Co daje subskrypcja?</string>
+    <string name="faq_title">Co daje subskrypcja?</string>
+    <string name="faq_message">
+• Dostęp do wszystkich funkcji aplikacji
+• Rekomendacje i wyszukiwanie miejsc w pobliżu
+• Chat AI: porady i odpowiedzi na pytania
+• Zapisywanie tras i ulubionych miejsc
+• Audioprzewodnik i ciekawostki
+• Tryb offline i brak reklam
+
+Wypróbuj wszystkie funkcje Smart Guide!
+    </string>
+    <string name="code_activated">Kod aktywowany pomyślnie!</string>
+    <string name="code_invalid">Kod nieprawidłowy lub już użyty</string>
+    <string name="code_unknown">Nieznany typ kodu</string>
+    <string name="lifetime_activated">Subskrypcja dożywotnia aktywowana!</string>
+    <string name="month_activated">Subskrypcja miesięczna aktywowana!</string>
+    <string name="threemonth_activated">Subskrypcja 3-miesięczna aktywowana!</string>
+    <string name="year_activated">Subskrypcja roczna aktywowana!</string>
+    <string name="reset_subscription_title">Resetuj profil</string>
+    <string name="reset_subscription_message">Czy na pewno chcesz usunąć wszystkie dane subskrypcji? Tej czynności nie można cofnąć.</string>
+    <string name="reset_subscription_yes">Tak, zresetuj</string>
+    <string name="reset_subscription_no">Nie</string>
+    <string name="reset_subscription_success">Subskrypcja zresetowana. Możesz ponownie przetestować aktywację!</string>
+    <string name="enter_code">Wpisz swój kod aktywacyjny</string>
+    <string name="after_restart">Uprawnienia będą dostępne po ponownym uruchomieniu aplikacji.</string>
+    <string name="exit">Wyjdź</string>
+
+    <!-- Markers, map, AI-chat -->
+    <string name="delete_marker_confirm">Usunąć ten znacznik?</string>
+    <string name="marker_deleted">Znacznik usunięty</string>
+    <string name="listen_marker">Odsłuchaj</string>
+    <string name="tts_not_supported">Twoje urządzenie nie obsługuje audioprzewodnika</string>
+    <string name="search_hint">Szukaj miejsca…</string>
+    <string name="add_photo">Dodaj zdjęcie do znacznika</string>
+    <string name="send_telegram">Wyślij do Telegrama</string>
+    <string name="place_not_found">Miejsce nie znalezione</string>
+    <string name="photo_attached">Zdjęcie dodane!</string>
+    <string name="new_marker_title">Nowe miejsce</string>
+    <string name="voice_input">Wprowadzanie głosowe</string>
+    <string name="choose_language">Wybierz język</string>
+    <string name="type_message">Wpisz wiadomość</string>
+    <string name="send">Wyślij</string>
+    <string name="speak_message">Mów</string>
+    <string name="ai_chat_title">Czat AI</string>
+    <string name="you">Ty</string>
+    <string name="ai">AI</string>
+    <string name="access_limited">Dostęp ograniczony</string>
+    <string name="limit_message">Wykorzystałeś 20 darmowych zapytań. Aby kontynuować, zapłać 5 $.</string>
+    <string name="speak_prompt">Mów…</string>
+    <string name="voice_error">Błąd wprowadzania głosowego</string>
+    <string name="network_error">Błąd sieci/serwera</string>
+    <string name="ai_error">Błąd odpowiedzi AI</string>
+    <string name="parse_error">Błąd analizy odpowiedzi</string>
+    <string name="tts_speak">Mów</string>
+    <string name="navigate">Nawiguj</string>
+    <string name="payment_instructions">
+1️⃣ Zapłać 9,99 $ jedną z metod:
+• 💳 KARTA: %1$s
+• PayPal: %2$s
+
+2️⃣ Odbierz kod aktywacyjny w Telegramie %3$s
+3️⃣ Wpisz kod poniżej, aby odblokować.
+</string>
+    <string name="pay_in_telegram">Zapłać przez Telegram</string>
+    <string name="open_map">Otwórz mapę</string>
+    <string name="support_chat">Czat wsparcia</string>
+    <string name="payment_subscription">Zapłać/Subskrypcja</string>
+
+
+</resources>

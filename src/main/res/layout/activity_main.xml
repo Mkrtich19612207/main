@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/white"
+    tools:context=".MainActivity">
+
+    <!-- Toolbar обязательно в самом верху! -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        app:title=""
+        app:titleTextColor="@android:color/white"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+    <!-- Контент -->
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textViewTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="40dp"
+            android:textAlignment="center"/>
+
+        <Button
+            android:id="@+id/buttonOpenMap"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/open_map"
+            android:layout_marginBottom="18dp" />
+
+        <Button
+            android:id="@+id/buttonOpenChat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/support_chat"
+            android:layout_marginBottom="18dp" />
+
+        <Button
+            android:id="@+id/buttonOpenPayment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/payment_subscription" />
+    </LinearLayout>
+</LinearLayout>

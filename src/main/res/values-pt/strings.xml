@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Smart Guide</string>
+    <string name="select_access_type">Selecionar tipo de acesso</string>
+    <string name="lifetime_purchase">Comprar vitalício (US$9,99)</string>
+    <string name="subscribe">Assinatura US$2,99/mês</string>
+    <string name="enter_activation_code">Inserir código de ativação</string>
+    <string name="activate_code">Ativar código</string>
+    <string name="reset_subscription">Redefinir assinatura</string>
+    <string name="faq_button">FAQ / O que a assinatura oferece?</string>
+    <string name="faq_title">O que a assinatura oferece?</string>
+    <string name="faq_message">
+• Acesso a todos os recursos do app
+• Recomendações e busca de lugares próximos
+• Chat IA: dicas e respostas para perguntas
+• Salvar rotas e lugares favoritos
+• Audioguia e curiosidades
+• Modo offline e sem anúncios
+
+Experimente todos os recursos do Smart Guide!
+    </string>
+    <string name="code_activated">Código ativado com sucesso!</string>
+    <string name="code_invalid">Código inválido ou já usado</string>
+    <string name="code_unknown">Tipo de código desconhecido</string>
+    <string name="lifetime_activated">Assinatura vitalícia ativada!</string>
+    <string name="month_activated">Assinatura mensal ativada!</string>
+    <string name="threemonth_activated">Assinatura de 3 meses ativada!</string>
+    <string name="year_activated">Assinatura anual ativada!</string>
+    <string name="reset_subscription_title">Redefinir perfil</string>
+    <string name="reset_subscription_message">Tem certeza que deseja apagar todos os dados da assinatura? Esta ação não pode ser desfeita.</string>
+    <string name="reset_subscription_yes">Sim, redefinir</string>
+    <string name="reset_subscription_no">Não</string>
+    <string name="reset_subscription_success">Assinatura redefinida. Você pode testar a ativação novamente!</string>
+    <string name="enter_code">Insira seu código de ativação</string>
+    <string name="after_restart">Os direitos de acesso estarão disponíveis após reiniciar o app.</string>
+    <string name="exit">Sair</string>
+
+    <!-- Markers, map, AI-chat -->
+    <string name="delete_marker_confirm">Excluir este marcador?</string>
+    <string name="marker_deleted">Marcador excluído</string>
+    <string name="listen_marker">Ouvir</string>
+    <string name="tts_not_supported">Seu dispositivo não suporta audioguia</string>
+    <string name="search_hint">Buscar local…</string>
+    <string name="add_photo">Adicionar foto ao marcador</string>
+    <string name="send_telegram">Para o Telegram</string>
+    <string name="place_not_found">Local não encontrado</string>
+    <string name="photo_attached">Foto anexada!</string>
+    <string name="new_marker_title">Novo local</string>
+    <string name="voice_input">Entrada de voz</string>
+    <string name="choose_language">Escolher idioma</string>
+    <string name="type_message">Digite a mensagem</string>
+    <string name="send">Enviar</string>
+    <string name="speak_message">Falar</string>
+    <string name="ai_chat_title">Chat IA</string>
+    <string name="you">Você</string>
+    <string name="ai">IA</string>
+    <string name="access_limited">Acesso limitado</string>
+    <string name="limit_message">Você usou 20 solicitações grátis. Para continuar, pague US$5.</string>
+    <string name="speak_prompt">Fale…</string>
+    <string name="voice_error">Erro de entrada de voz</string>
+    <string name="network_error">Erro de rede/servidor</string>
+    <string name="ai_error">Erro na resposta IA</string>
+    <string name="parse_error">Erro ao processar resposta</string>
+    <string name="tts_speak">Falar</string>
+    <string name="navigate">Navegar</string>
+    <string name="payment_instructions">
+1️⃣ Pague $9,99 usando um dos métodos:
+• 💳 CARTÃO: %1$s
+• PayPal: %2$s
+
+2️⃣ Obtenha seu código de ativação no Telegram %3$s
+3️⃣ Digite o código abaixo para desbloquear.
+</string>
+    <string name="pay_in_telegram">Pagar no Telegram</string>
+    <string name="open_map">Abrir mapa</string>
+    <string name="support_chat">Chat de suporte</string>
+    <string name="payment_subscription">Pagar/Assinatura</string>
+
+</resources>

@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Smart Guide</string>
+    <string name="select_access_type">Zugriffsart auswählen</string>
+    <string name="lifetime_purchase">Lebenslang kaufen (9,99 $)</string>
+    <string name="subscribe">Abonnement 2,99 $/Monat</string>
+    <string name="enter_activation_code">Aktivierungscode eingeben</string>
+    <string name="activate_code">Code aktivieren</string>
+    <string name="reset_subscription">Abonnement zurücksetzen</string>
+    <string name="faq_button">FAQ / Was bietet das Abonnement?</string>
+    <string name="faq_title">Was bietet das Abonnement?</string>
+    <string name="faq_message">
+• Zugriff auf alle App-Funktionen
+• Empfehlungen und Suche nach Orten in der Nähe
+• KI-Chat: Tipps und Antworten auf Fragen
+• Routen speichern und Favoriten
+• Audioguide und interessante Fakten
+• Offline-Modus und keine Werbung
+
+Teste alle Funktionen von Smart Guide!
+    </string>
+    <string name="code_activated">Code erfolgreich aktiviert!</string>
+    <string name="code_invalid">Code ist ungültig oder bereits verwendet</string>
+    <string name="code_unknown">Unbekannter Code-Typ</string>
+    <string name="lifetime_activated">Lebenslanges Abonnement aktiviert!</string>
+    <string name="month_activated">Monatliches Abonnement aktiviert!</string>
+    <string name="threemonth_activated">3-Monats-Abonnement aktiviert!</string>
+    <string name="year_activated">Jahresabonnement aktiviert!</string>
+    <string name="reset_subscription_title">Profil zurücksetzen</string>
+    <string name="reset_subscription_message">Sind Sie sicher, dass Sie alle Abonnementdaten löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.</string>
+    <string name="reset_subscription_yes">Ja, zurücksetzen</string>
+    <string name="reset_subscription_no">Nein</string>
+    <string name="reset_subscription_success">Abonnement zurückgesetzt. Sie können die Aktivierung erneut testen!</string>
+    <string name="enter_code">Bitte geben Sie Ihren Aktivierungscode ein</string>
+    <string name="after_restart">Zugriffsrechte sind nach dem Neustart der App verfügbar.</string>
+    <string name="exit">Beenden</string>
+
+    <!-- Markers, map, AI-chat -->
+    <string name="delete_marker_confirm">Diesen Marker löschen?</string>
+    <string name="marker_deleted">Marker gelöscht</string>
+    <string name="listen_marker">Anhören</string>
+    <string name="tts_not_supported">Ihr Gerät unterstützt keinen Audioguide</string>
+    <string name="search_hint">Ort suchen…</string>
+    <string name="add_photo">Foto zum Marker hinzufügen</string>
+    <string name="send_telegram">An Telegram senden</string>
+    <string name="place_not_found">Ort nicht gefunden</string>
+    <string name="photo_attached">Foto hinzugefügt!</string>
+    <string name="new_marker_title">Neuer Ort</string>
+    <string name="voice_input">Spracheingabe</string>
+    <string name="choose_language">Sprache auswählen</string>
+    <string name="type_message">Nachricht eingeben</string>
+    <string name="send">Senden</string>
+    <string name="speak_message">Sprechen</string>
+    <string name="ai_chat_title">KI-Chat</string>
+    <string name="you">Du</string>
+    <string name="ai">KI</string>
+    <string name="access_limited">Zugriff begrenzt</string>
+    <string name="limit_message">Sie haben 20 kostenlose Anfragen genutzt. Bitte zahlen Sie 5 $, um fortzufahren.</string>
+    <string name="speak_prompt">Sprich…</string>
+    <string name="voice_error">Spracherkennungsfehler</string>
+    <string name="network_error">Netzwerk-/Serverfehler</string>
+    <string name="ai_error">Fehler bei der KI-Antwort</string>
+    <string name="parse_error">Fehler bei der Antwortverarbeitung</string>
+    <string name="tts_speak">Sprechen</string>
+    <string name="navigate">Navigieren</string>
+    <string name="payment_instructions">
+1️⃣ Zahlen Sie $9,99 auf eine der folgenden Arten:
+• 💳 KARTE: %1$s
+• PayPal: %2$s
+
+2️⃣ Erhalten Sie Ihren Aktivierungscode per Telegram %3$s
+3️⃣ Geben Sie unten den Code ein, um freizuschalten.
+</string>
+    <string name="pay_in_telegram">Per Telegram bezahlen</string>
+    <string name="open_map">Karte öffnen</string>
+    <string name="support_chat">Support-Chat</string>
+    <string name="payment_subscription">Bezahlen/Abonnement</string>
+
+</resources>

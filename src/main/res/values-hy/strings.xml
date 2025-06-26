@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Smart Guide</string>
+    <string name="google_maps_key">ՔՈ_GOOGLE_API_KEY</string>
+
+    <string name="select_access_type">Ընտրեք հասանելիության տեսակը</string>
+    <string name="lifetime_purchase">Գնել ընդմիշտ ($9.99)</string>
+    <string name="subscribe">Բաժանորդագրություն $2.99/ամիս</string>
+    <string name="enter_activation_code">Մուտքագրեք ակտիվացման կոդը</string>
+    <string name="activate_code">Ակտիվացնել կոդը</string>
+    <string name="reset_subscription">Վերակայել բաժանորդագրությունը</string>
+    <string name="faq_button">Հաճախ տրվող հարցեր / Ի՞նչ է տալիս բաժանորդագրությունը</string>
+    <string name="faq_title">Ի՞նչ է տալիս բաժանորդագրությունը</string>
+    <string name="faq_message">
+• Մուտք բոլոր հնարավորություններին
+• Հարկավոր և մոտակա վայրերի որոնում
+• AI չատ՝ խորհուրդներ և պատասխաններ
+• Մարզուղիների և նախընտրելի վայրերի պահպանում
+• Աուդիոգիդ և հետաքրքիր փաստեր
+• Օֆլայն ռեժիմ և առանց գովազդի
+
+Փորձեք Smart Guide-ի բոլոր հնարավորությունները!
+    </string>
+    <string name="code_activated">Կոդը հաջողությամբ ակտիվացված է։</string>
+    <string name="code_invalid">Կոդը սխալ է կամ արդեն օգտագործված է</string>
+    <string name="code_unknown">Անհայտ կոդի տեսակ</string>
+    <string name="lifetime_activated">Անժամկետ բաժանորդագրությունը ակտիվացված է։</string>
+    <string name="month_activated">Ամսական բաժանորդագրությունը ակտիվացված է։</string>
+    <string name="threemonth_activated">3 ամիս բաժանորդագրություն ակտիվացված է։</string>
+    <string name="year_activated">Տարեկան բաժանորդագրությունը ակտիվացված է։</string>
+    <string name="reset_subscription_title">Վերակայել պրոֆիլը</string>
+    <string name="reset_subscription_message">Համոզվա՞ծ եք, որ ցանկանում եք ջնջել բաժանորդագրության տվյալները: Այս գործողությունը անհնար է չեղարկել։</string>
+    <string name="reset_subscription_yes">Այո, վերակայել</string>
+    <string name="reset_subscription_no">Ոչ</string>
+    <string name="reset_subscription_success">Բաժանորդագրությունը վերակայված է։ Կարող եք նորից փորձարկել ակտիվացումը։</string>
+    <string name="enter_code">Մուտքագրեք ձեր ակտիվացման կոդը</string>
+    <string name="after_restart">Հասանելիությունը հասանելի կլինի հավելվածը վերագործարկելուց հետո։</string>
+    <string name="exit">Ելք</string>
+
+    <!-- Markers, map, AI-chat -->
+    <string name="delete_marker_confirm">Ջնջե՞լ այս մարկերը</string>
+    <string name="marker_deleted">Մարկերը ջնջված է</string>
+    <string name="listen_marker">Լսել</string>
+    <string name="tts_not_supported">Ձեր սարքը չի աջակցում աուդիոգիդը</string>
+    <string name="search_hint">Որոնել վայր…</string>
+    <string name="add_photo">Լուսանկար ավելացնել մարկերին</string>
+    <string name="send_telegram">Ուղարկել Telegram</string>
+    <string name="place_not_found">Վայրը չի գտնվել</string>
+    <string name="photo_attached">Լուսանկարը կցված է։</string>
+    <string name="new_marker_title">Նոր վայր</string>
+    <string name="voice_input">Ձայնային մուտքագրում</string>
+    <string name="choose_language">Ընտրեք լեզուն</string>
+    <string name="type_message">Մուտքագրեք հաղորդագրությունը</string>
+    <string name="send">Ուղարկել</string>
+    <string name="speak_message">Խոսել</string>
+    <string name="ai_chat_title">AI Չատ</string>
+    <string name="you">Դուք</string>
+    <string name="ai">ԱԲ</string>
+    <string name="access_limited">Մուտքը սահմանափակված է</string>
+    <string name="limit_message">Դուք օգտագործեցիք 20 անվճար հարցում։ Շարունակելու համար խնդրում ենք վճարել $5։</string>
+    <string name="speak_prompt">Խոսեք…</string>
+    <string name="voice_error">Ձայնային մուտքի սխալ</string>
+    <string name="network_error">Ցանցի/սերվերի սխալ</string>
+    <string name="ai_error">AI-ի պատասխանի սխալ</string>
+    <string name="parse_error">Պատասխանի վերլուծման սխալ</string>
+    <string name="tts_speak">Խոսել</string>
+    <string name="navigate">Նավիգացիա</string>
+    <string name="payment_instructions">
+1️⃣ Վճարեք 9.99$ հետևյալ տարբերակներով՝
+• 💳 ՔԱՐՏ՝ %1$s
+• PayPal՝ %2$s
+
+2️⃣ Ստացեք ակտիվացման կոդը Telegram-ով՝ %3$s
+3️⃣ Մուտքագրեք կոդը այստեղ՝ բացելու համար։
+</string>
+    <string name="pay_in_telegram">Վճարել Telegram-ով</string>
+    <string name="open_map">Բացել քարտեզը</string>
+    <string name="support_chat">Աջակցության չատ</string>
+    <string name="payment_subscription">Վճարել/Բաժանորդագրություն</string>
+
+</resources>
